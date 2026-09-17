@@ -1,3 +1,1 @@
-"Hello Git Diff" 
-"main direct change" 
-"main direct change 2" 
+"Line changed by conflict-test branch" 
